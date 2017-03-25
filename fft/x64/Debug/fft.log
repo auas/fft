@@ -1,0 +1,8 @@
+﻿  2dfft.cpp
+c:\users\auas\documents\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\visual studio 2015\projects\fft\fft\2dfft.cpp(49): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  fft.vcxproj -> C:\Users\auas\Documents\Visual Studio 2015\Projects\fft\x64\Debug\fft.exe
+  fft.vcxproj -> C:\Users\auas\Documents\Visual Studio 2015\Projects\fft\x64\Debug\fft.pdb (Full PDB)

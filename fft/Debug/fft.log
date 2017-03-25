@@ -1,0 +1,30 @@
+﻿  helper.cpp
+c:\users\auas\documents\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\visual studio 2015\projects\fft\fft\helper.cpp(283): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\auas\documents\visual studio 2015\projects\fft\fft\helper.cpp(284): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\auas\documents\visual studio 2015\projects\fft\fft\helper.cpp(303): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\auas\documents\visual studio 2015\projects\fft\fft\helper.cpp(305): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\auas\documents\visual studio 2015\projects\fft\fft\helper.cpp(320): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\auas\documents\visual studio 2015\projects\fft\fft\helper.cpp(323): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  2dfft.cpp
+c:\users\auas\documents\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\auas\documents\visual studio 2015\projects\fft\fft\2dfft.cpp(42): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+2dfft.obj : error LNK2019: 无法解析的外部符号 _cvLoadImage，该符号在函数 _main 中被引用
+2dfft.obj : error LNK2019: 无法解析的外部符号 _cvNamedWindow，该符号在函数 _main 中被引用
+helper.obj : error LNK2001: 无法解析的外部符号 _cvNamedWindow
+2dfft.obj : error LNK2019: 无法解析的外部符号 _cvShowImage，该符号在函数 _main 中被引用
+helper.obj : error LNK2001: 无法解析的外部符号 _cvShowImage
+2dfft.obj : error LNK2019: 无法解析的外部符号 _cvWaitKey，该符号在函数 _main 中被引用
+helper.obj : error LNK2001: 无法解析的外部符号 _cvWaitKey
+helper.obj : error LNK2019: 无法解析的外部符号 _cvCreateImage，该符号在函数 "void __cdecl show_img_re(struct Complex_ (* const)[512],int,int)" (?show_img_re@@YAXQAY0CAA@UComplex_@@HH@Z) 中被引用
+helper.obj : error LNK2019: 无法解析的外部符号 _cvReleaseImage，该符号在函数 "void __cdecl show_img_re(struct Complex_ (* const)[512],int,int)" (?show_img_re@@YAXQAY0CAA@UComplex_@@HH@Z) 中被引用
+helper.obj : error LNK2019: 无法解析的外部符号 _cvDestroyWindow，该符号在函数 "void __cdecl show_img_re(struct Complex_ (* const)[512],int,int)" (?show_img_re@@YAXQAY0CAA@UComplex_@@HH@Z) 中被引用
+C:\Users\auas\Documents\opencv\build\x64\vc14\lib\opencv_world320.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+c:\users\auas\documents\visual studio 2015\Projects\fft\Debug\fft.exe : fatal error LNK1120: 7 个无法解析的外部命令
